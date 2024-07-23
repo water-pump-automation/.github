@@ -2,4 +2,4 @@
 
 ![](resources/local.png)
 
-![](resources/server.png)
+![](resources/server_2.png)
